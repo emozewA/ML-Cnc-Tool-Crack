@@ -1,5 +1,4 @@
-# 
-Detecting tool crack on cnc machine using machine learning.
+# Detecting tool crack on cnc machine using machine learning.
 
 ## How does it work
 Train the model weight on google colab and upload the weight to roboflow, as roboflow provide convenience for the users by using their api, from there we can use django Get function to get json code and parse the information and obtain the information we need to display on the website such as the accuracy.
